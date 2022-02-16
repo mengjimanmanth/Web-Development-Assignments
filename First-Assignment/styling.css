@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(194, 157, 228);
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: rgb(126, 21, 224);
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Fira Sans', sans-serif;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: dotted;
+}
